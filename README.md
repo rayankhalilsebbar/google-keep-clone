@@ -1,4 +1,5 @@
 # Google keep clone persisted on ICP blockchain (dkeeper)
+Google keep clone made with Node.JS / React / Motoko / ICP. Studied from app brewery.
 
 # Demo
 ![Demo](demo.gif)
